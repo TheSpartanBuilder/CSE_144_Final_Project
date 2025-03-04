@@ -1,5 +1,5 @@
-# Final project 1
-- This used CSV to read the data and store the data. But I am having a hard time piping the image to the nn. So I spend some time on figuring out how to do it properly and I find my solution. 
-
-# Final project
+# Final project V2
 - This just use the dataset function from torchvision to imoort data. Much easier then what I did before.
+
+# Final project V1
+- This used CSV to read the data and store the data. But I am having a hard time piping the image to the nn. So I spend some time on figuring out how to do it properly and I find my solution. 
